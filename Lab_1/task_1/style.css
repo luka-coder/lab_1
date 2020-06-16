@@ -1,0 +1,24 @@
+.form table{
+    height: 500px;
+    width: 400px;
+    background: red;
+    border: solid 5px black;
+}
+.form table td{
+    background-color: lightgoldenrodyellow;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+.table{
+    height: 400px;
+    width: 400px;
+    background: red;
+    border: solid 5px black;
+    margin-top: -500px;
+    margin-left: 500px;
+}
+.table td{
+    background-color: lightgoldenrodyellow;
+    border: solid 3px black;
+    border-radius: 10px;
+}

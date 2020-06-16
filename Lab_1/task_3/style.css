@@ -1,0 +1,11 @@
+table{
+    height: 600px;
+    width: 600px;
+    background: red;
+    border: solid 5px black;
+}
+table td{
+    background-color: lightgoldenrodyellow;
+    border: solid 3px black;
+    border-radius: 10px;
+}
